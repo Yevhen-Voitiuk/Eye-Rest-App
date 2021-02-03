@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBinT/gjK6VcIonnHIU6qqCSMFJRg1KKyvqnP8o6Tti3XtSflmlURAYE5YyPusv9yYQXQ9CTc6a0Zbhdd3Jq6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mr. J\\source\\repos\\Yevhen-Voitiuk\\Eye-Rest-App\\Eye-Rest\\Eye-Rest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
